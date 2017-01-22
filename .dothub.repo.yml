@@ -20,7 +20,7 @@ labels:
   wontfix:
     color: ffffff
 options:
-  description: Repo to test end to end integration of dothub
+  description: Repo to test end to end integration of dothub with real github
   has_downloads: true
   has_issues: true
   has_wiki: true
