@@ -5,4 +5,4 @@ If you ever change anything in this org/repo please check afterwards the dothub 
 
 [![Build Status](https://travis-ci.org/Mariocj89/dothub.svg?branch=master)](https://travis-ci.org/Mariocj89/dothub)
 
-You might have discover a new bug if it fails!
+You might have discover a new bug if it fails, please report it!
