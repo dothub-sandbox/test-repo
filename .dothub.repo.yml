@@ -1,0 +1,29 @@
+collaborators:
+  Mariocj89:
+    permission: admin
+  dothub-bot:
+    permission: admin
+hooks: {}
+labels:
+  bug:
+    color: ee0701
+  duplicate:
+    color: cccccc
+  enhancement:
+    color: 84b6eb
+  help wanted:
+    color: 128A0C
+  invalid:
+    color: e6e6e6
+  question:
+    color: cc317c
+  wontfix:
+    color: ffffff
+options:
+  description: Repo to test end to end integration of dothub
+  has_downloads: true
+  has_issues: true
+  has_wiki: true
+  homepage: null
+  name: test-repo
+  private: false
