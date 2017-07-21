@@ -27,3 +27,6 @@ options:
   homepage: null
   name: test-repo
   private: false
+  allow_rebase_merge: True
+  allow_squash_merge: False
+  allow_merge_commit: False

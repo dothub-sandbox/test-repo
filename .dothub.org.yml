@@ -1,0 +1,14 @@
+hooks: {}
+members:
+  dothub-bot:
+    role: admin
+  mariocj89:
+    role: admin
+options:
+  billing_email: mariocj89+dothub@gmail.com
+  company: null
+  description: Sample description
+  email: null
+  location: null
+  name: Dothub Testing Sandbox
+teams: {}
