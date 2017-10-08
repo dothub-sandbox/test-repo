@@ -1,4 +1,13 @@
-hooks: {}
+hooks:
+- active: false
+  config:
+    content_type: json
+    insecure_ssl: '0'
+    secret: '********'
+    url: http://example.com
+  events:
+  - push
+  name: web
 members:
   dothub-bot:
     role: admin
@@ -7,8 +16,16 @@ members:
 options:
   billing_email: mariocj89+dothub@gmail.com
   company: null
-  description: Sample description
+  description: Test organization for dothub integration tests
   email: null
   location: null
-  name: Dothub Testing Sandbox
-teams: {}
+  name: Dothub Test Org
+teams:
+  sample-repo:
+    description: sample-repo
+    members:
+      dothub-bot:
+        role: maintainer
+    permission: pull
+    privacy: closed
+    repositories: {}
